@@ -1,4 +1,4 @@
-### 👋 Hello there, my name is Julian
+## 👋 Hello there, my name is Julian
 
 I'm currently studying a mobile, web and desctop aplicattions developing degree.
 
