@@ -1,14 +1,14 @@
 ## 👋 Hello there, my name is Julian
 
-  I'm currently studying a mobile, web and desctop aplicattions developing degree.
+  I'm currently studying a mobile, web and desktop aplicattions developing degree.
   
   I'm always looking for increase my knowledge, to become a better proffesional day by day.
 
 ---
 ### Personal information
-  ·🏫: Campus Politécnico Acirmar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
+  ·🏫: Campus Politécnico Aceimar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
 
-  ·🏠: Vigo, Ponteveedra, Spain
+  ·🏠: Vigo, Pontevedra, Spain
 
 ---
 ### 🛠️ Languages and Tools:
