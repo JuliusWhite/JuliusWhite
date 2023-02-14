@@ -1,4 +1,6 @@
 ### Hello there, my name is Julian
 
-<!--
-**JuliusWhite/JuliusWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying a mobile, web and desctop aplicattions developing degree.
+
+·🏫: Campus Politécnico Acirmar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
+·🏠: Vigo, Ponteveedra, Sapin
