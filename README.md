@@ -1,14 +1,14 @@
 ## 👋 Hello there, my name is Julian
 
-I'm currently studying a mobile, web and desctop aplicattions developing degree.
-
-I'm always looking for increase my knowledge, to become a better proffesional day by day.
+  I'm currently studying a mobile, web and desctop aplicattions developing degree.
+  
+  I'm always looking for increase my knowledge, to become a better proffesional day by day.
 
 ---
 ### Personal information
-·🏫: Campus Politécnico Acirmar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
+  ·🏫: Campus Politécnico Acirmar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
 
-·🏠: Vigo, Ponteveedra, Spain
+  ·🏠: Vigo, Ponteveedra, Spain
 
 ---
 ### 🛠️ Languages and Tools:
@@ -29,4 +29,12 @@ I'm always looking for increase my knowledge, to become a better proffesional da
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 and some others...
+
+---
+
+### 📊 My Stats:
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliusWhite&theme=dark&background=000000)](https://git.io/streak-stats)
+  
