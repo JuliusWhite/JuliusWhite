@@ -6,7 +6,7 @@
 
 ---
 ### Personal information
-  ·🏫: Campus Politécnico Aceimar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Spain.
+  ·🏫: Campus Politécnico Aceimar, Vigo, Pontevedra, Spain - CPR Daniel Castelao Vigo, Pontevedra, Spain.
 
   ·🏠: Vigo, Pontevedra, Spain
 
